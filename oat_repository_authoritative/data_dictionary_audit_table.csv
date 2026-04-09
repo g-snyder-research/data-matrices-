@@ -1,0 +1,11 @@
+variable,description,type,notes
+participant,Repository-specific anonymous participant identifier used only for linkage across deposited files,string,R01-R10
+analyte,Clinical analyte label,string,Cleaned analyte name
+value,Parsed numeric analyte value from the source report entry,float,
+ref_range,Printed reference interval string as represented in the deposited audit table,string,Two-sided interval or one-sided upper limit
+interval_type,Reference-interval type assigned at the participant-analyte level,string,two-sided or one-sided
+lower_bound,Parsed lower bound for two-sided intervals,float,Missing for one-sided analytes by design
+upper_bound,Parsed upper bound or one-sided upper limit,float,
+flag,Source-report abnormal flag,string,Typically H or L; blank when within range
+flag_recomputed,Out-of-range flag recomputed from parsed values and parsed bounds,string,Quality-control field
+transformed_score,Reference-aware transformed score. Two-sided analytes use z-approx = (x - μ) / σ. One-sided analytes use fraction-of-upper-limit = x / U.,float,Primary engineered feature used for matrix construction

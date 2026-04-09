@@ -1,0 +1,751 @@
+participant,analyte,value,ref_range,interval_type,lower_bound,upper_bound,flag,flag_recomputed,transformed_score
+R01,2-Hydroxybutyric,1.7,0.03 - 1.8,two-sided,0.03,1.8,,,1.7385310734463273
+R01,2-Hydroxyhippuric,0.01,≤ 1.3,one-sided,,1.3,,,0.007692307692307692
+R01,2-Hydroxyisocaproic,0.32,≤ 2.0,one-sided,,2.0,,,0.16
+R01,2-Hydroxyisovaleric,0.76,≤ 2.0,one-sided,,2.0,,,0.38
+R01,2-Hydroxyphenylacetic,0.48,0.06 - 0.66,two-sided,0.06,0.66,,,0.7839999999999998
+R01,2-Oxo-4-methiolbutyric,0.11,≤ 2.0,one-sided,,2.0,,,0.055
+R01,2-Oxoglutaric,22.0,≤ 35,one-sided,,35.0,,,0.6285714285714286
+R01,2-Oxoisocaproic,0.05,≤ 2.0,one-sided,,2.0,,,0.025
+R01,2-Oxoisovaleric,0.0,≤ 2.1,one-sided,,2.1,,,0.0
+R01,3-Hydroxy-3-methylglutaric,10.0,0.17 - 39,two-sided,0.17,39.0,,,-0.9676332732423385
+R01,3-Hydroxybutyric,2.5,≤ 3.1,one-sided,,3.1,,,0.8064516129032258
+R01,3-Hydroxyglutaric,4.8,≤ 6.2,one-sided,,6.2,,,0.7741935483870968
+R01,3-Indoleacetic,0.82,≤ 11,one-sided,,11.0,,,0.07454545454545454
+R01,3-Methyl-2-oxovaleric,0.3,≤ 2.0,one-sided,,2.0,,,0.15
+R01,3-Methylglutaconic,1.3,≤ 4.5,one-sided,,4.5,,,0.2888888888888889
+R01,3-Methylglutaric,0.39,≤ 0.76,one-sided,,0.76,,,0.5131578947368421
+R01,3-Oxoglutaric,0.07,≤ 0.33,one-sided,,0.33,,,0.21212121212121213
+R01,4-Cresol,6.7,≤ 75,one-sided,,75.0,,,0.08933333333333333
+R01,4-Hydroxybenzoic,0.66,≤ 1.3,one-sided,,1.3,,,0.5076923076923077
+R01,4-Hydroxybutyric,3.1,≤ 4.8,one-sided,,4.8,,,0.6458333333333334
+R01,4-Hydroxyhippuric,2.9,0.79 - 17,two-sided,0.79,17.0,,,-1.4497470697100552
+R01,4-Hydroxyphenylacetic,9.7,≤ 19,one-sided,,19.0,,,0.5105263157894736
+R01,4-Hydroxyphenyllactic,0.31,≤ 2.0,one-sided,,2.0,,,0.155
+R01,5-Hydroxyindoleacetic (5-HIAA),1.4,≤ 4.3,one-sided,,4.3,,,0.3255813953488372
+R01,5-Hydroxymethyl-2-furoic,1.2,≤ 14,one-sided,,14.0,,,0.08571428571428572
+R01,Acetoacetic,2.4,≤ 10,one-sided,,10.0,,,0.24
+R01,Aconitic,9.4,6.8 - 28,two-sided,6.8,28.0,,,-1.4792452830188678
+R01,Adipic,2.2,0.04 - 3.8,two-sided,0.04,3.8,,,0.29191489361702155
+R01,Arabinose,24.0,≤ 29,one-sided,,29.0,,,0.8275862068965517
+R01,Ascorbic,1.6,10 - 200,two-sided,10.0,200.0,L,L,-2.133305263157895
+R01,Carboxycitric,0.0,≤ 29,one-sided,,29.0,,,0.0
+R01,Citramalic,1.2,≤ 3.6,one-sided,,3.6,,,0.3333333333333333
+R01,Citric,196.0,≤ 507,one-sided,,507.0,,,0.3865877712031558
+R01,DHPPA (Beneficial Bacteria),0.06,≤ 0.38,one-sided,,0.38,,,0.15789473684210525
+R01,Dihydroxyphenylacetic (DOPAC),2.5,0.08 - 3.5,two-sided,0.08,3.5,,,0.8138011695906432
+R01,Ethylmalonic,1.9,0.44 - 2.8,two-sided,0.44,2.8,,,0.4650847457627119
+R01,Fumaric,0.37,≤ 0.94,one-sided,,0.94,,,0.39361702127659576
+R01,"Furan-2,5-dicarboxylic",2.2,≤ 16,one-sided,,16.0,,,0.1375
+R01,Furancarbonylglycine,0.59,≤ 1.9,one-sided,,1.9,,,0.3105263157894737
+R01,Glutaric,0.21,0.04 - 0.36,two-sided,0.04,0.36,,,0.1225000000000001
+R01,Glyceric,3.5,0.77 - 7.0,two-sided,0.77,7.0,,,-0.2422471910112358
+R01,Glycolic,78.0,16 - 117,two-sided,16.0,117.0,,,0.44633663366336634
+R01,HPHPA,21.0,≤ 208,one-sided,,208.0,,,0.10096153846153846
+R01,HVA / VMA Ratio,0.99,0.16 - 1.8,two-sided,0.16,1.8,,,0.023902439024390265
+R01,HVA/ DOPAC Ratio,0.74,0.10 - 1.8,two-sided,0.1,1.8,,,-0.48423529411764726
+R01,Hippuric,317.0,≤ 613,one-sided,,613.0,,,0.5171288743882545
+R01,Homogentisic,0.05,≤ 2.0,one-sided,,2.0,,,0.025
+R01,Homovanillic (HVA),1.8,0.80 - 3.6,two-sided,0.8,3.6,,,-0.5600000000000002
+R01,Kynurenic,0.08,≤ 2.2,one-sided,,2.2,,,0.03636363636363636
+R01,Lactic,27.0,≤ 48,one-sided,,48.0,,,0.5625
+R01,Malic,0.39,0.06 - 1.8,two-sided,0.06,1.8,,,-1.2165517241379311
+R01,Malonic,3.6,≤ 9.7,one-sided,,9.7,,,0.3711340206185567
+R01,Mandelic,0.12,≤ 2.0,one-sided,,2.0,,,0.06
+R01,Methylcitric,0.68,0.19 - 2.7,two-sided,0.19,2.7,,,-1.1947410358565735
+R01,Methylmalonic,1.8,≤ 2.3,one-sided,,2.3,,,0.782608695652174
+R01,Methylsuccinic,1.6,0.10 - 2.2,two-sided,0.1,2.2,,,0.84
+R01,N-Acetylaspartic,4.1,≤ 38,one-sided,,38.0,,,0.10789473684210525
+R01,N-Acetylcysteine (NAC),0.08,≤ 0.28,one-sided,,0.28,,,0.2857142857142857
+R01,Orotic,0.48,0.06 - 0.54,two-sided,0.06,0.54,,,1.4699999999999993
+R01,Oxalic,86.0,6.8 - 101,two-sided,6.8,101.0,,,1.3357961783439491
+R01,Pantothenic (B5),1.8,≤ 10,one-sided,,10.0,,,0.18
+R01,Phenyllactic,0.1,≤ 2.0,one-sided,,2.0,,,0.05
+R01,Phenylpyruvic,0.65,≤ 2.0,one-sided,,2.0,,,0.325
+R01,Pyridoxic (B6),2.0,≤ 34,one-sided,,34.0,,,0.058823529411764705
+R01,Pyroglutamic,36.0,10 - 33,two-sided,10.0,33.0,H,H,2.471304347826087
+R01,Pyruvic,1.2,≤ 9.1,one-sided,,9.1,,,0.13186813186813187
+R01,Quinolinic,3.5,0.85 - 3.9,two-sided,0.85,3.9,,,1.4459016393442623
+R01,Sebacic,0.11,≤ 0.24,one-sided,,0.24,,,0.45833333333333337
+R01,Suberic,2.4,0.18 - 2.2,two-sided,0.18,2.2,H,H,2.348118811881188
+R01,Succinic,5.0,≤ 9.3,one-sided,,9.3,,,0.5376344086021505
+R01,Tartaric,0.28,≤ 4.5,one-sided,,4.5,,,0.06222222222222223
+R01,Thymine,0.19,≤ 0.56,one-sided,,0.56,,,0.33928571428571425
+R01,Tricarballylic,0.09,≤ 0.44,one-sided,,0.44,,,0.20454545454545453
+R01,Uracil,3.8,≤ 9.7,one-sided,,9.7,,,0.3917525773195876
+R01,Vanillylmandelic (VMA),1.8,0.46 - 3.7,two-sided,0.46,3.7,,,-0.3387654320987655
+R02,2-Hydroxybutyric,0.89,0.03 - 1.8,two-sided,0.03,1.8,,,-0.05536723163841813
+R02,2-Hydroxyhippuric,0.93,≤ 1.3,one-sided,,1.3,,,0.7153846153846154
+R02,2-Hydroxyisocaproic,0.0,≤ 2.0,one-sided,,2.0,,,0.0
+R02,2-Hydroxyisovaleric,0.16,≤ 2.0,one-sided,,2.0,,,0.08
+R02,2-Hydroxyphenylacetic,0.56,0.06 - 0.66,two-sided,0.06,0.66,,,1.3066666666666669
+R02,2-Oxo-4-methiolbutyric,0.02,≤ 2.0,one-sided,,2.0,,,0.01
+R02,2-Oxoglutaric,20.0,≤ 35,one-sided,,35.0,,,0.5714285714285714
+R02,2-Oxoisocaproic,0.13,≤ 2.0,one-sided,,2.0,,,0.065
+R02,2-Oxoisovaleric,0.15,≤ 2.1,one-sided,,2.1,,,0.07142857142857142
+R02,3-Hydroxy-3-methylglutaric,11.0,0.17 - 39,two-sided,0.17,39.0,,,-0.8666804017512234
+R02,3-Hydroxybutyric,1.5,≤ 3.1,one-sided,,3.1,,,0.48387096774193544
+R02,3-Hydroxyglutaric,2.4,≤ 6.2,one-sided,,6.2,,,0.3870967741935484
+R02,3-Indoleacetic,0.44,≤ 11,one-sided,,11.0,,,0.04
+R02,3-Methyl-2-oxovaleric,0.67,≤ 2.0,one-sided,,2.0,,,0.335
+R02,3-Methylglutaconic,2.1,≤ 4.5,one-sided,,4.5,,,0.4666666666666667
+R02,3-Methylglutaric,0.31,≤ 0.76,one-sided,,0.76,,,0.40789473684210525
+R02,3-Oxoglutaric,0.03,≤ 0.33,one-sided,,0.33,,,0.0909090909090909
+R02,4-Cresol,8.1,≤ 75,one-sided,,75.0,,,0.108
+R02,4-Hydroxybenzoic,0.16,≤ 1.3,one-sided,,1.3,,,0.12307692307692307
+R02,4-Hydroxybutyric,0.99,≤ 4.8,one-sided,,4.8,,,0.20625000000000002
+R02,4-Hydroxyhippuric,1.7,0.79 - 17,two-sided,0.79,17.0,,,-1.739938309685379
+R02,4-Hydroxyphenylacetic,5.2,≤ 19,one-sided,,19.0,,,0.2736842105263158
+R02,4-Hydroxyphenyllactic,0.21,≤ 2.0,one-sided,,2.0,,,0.105
+R02,5-Hydroxyindoleacetic (5-HIAA),1.0,≤ 4.3,one-sided,,4.3,,,0.23255813953488372
+R02,5-Hydroxymethyl-2-furoic,0.56,≤ 14,one-sided,,14.0,,,0.04
+R02,Acetoacetic,0.77,≤ 10,one-sided,,10.0,,,0.077
+R02,Aconitic,5.2,6.8 - 28,two-sided,6.8,28.0,L,L,-2.2558490566037737
+R02,Adipic,0.73,0.04 - 3.8,two-sided,0.04,3.8,,,-1.2406382978723405
+R02,Arabinose,32.0,≤ 29,one-sided,,29.0,H,H,1.103448275862069
+R02,Ascorbic,0.4,10 - 200,two-sided,10.0,200.0,L,L,-2.1580631578947367
+R02,Carboxycitric,1.5,≤ 29,one-sided,,29.0,,,0.05172413793103448
+R02,Citramalic,0.6,≤ 3.6,one-sided,,3.6,,,0.16666666666666666
+R02,Citric,274.0,≤ 507,one-sided,,507.0,,,0.5404339250493096
+R02,DHPPA (Beneficial Bacteria),0.07,≤ 0.38,one-sided,,0.38,,,0.1842105263157895
+R02,Dihydroxyphenylacetic (DOPAC),0.7,0.08 - 3.5,two-sided,0.08,3.5,,,-1.2493567251461988
+R02,Ethylmalonic,1.3,0.44 - 2.8,two-sided,0.44,2.8,,,-0.5315254237288133
+R02,Fumaric,0.16,≤ 0.94,one-sided,,0.94,,,0.17021276595744683
+R02,"Furan-2,5-dicarboxylic",0.97,≤ 16,one-sided,,16.0,,,0.060625
+R02,Furancarbonylglycine,0.23,≤ 1.9,one-sided,,1.9,,,0.12105263157894738
+R02,Glutaric,0.11,0.04 - 0.36,two-sided,0.04,0.36,,,-1.1024999999999996
+R02,Glyceric,2.3,0.77 - 7.0,two-sided,0.77,7.0,,,-0.9973033707865168
+R02,Glycolic,44.0,16 - 117,two-sided,16.0,117.0,,,-0.8732673267326733
+R02,HPHPA,6.5,≤ 208,one-sided,,208.0,,,0.03125
+R02,HVA / VMA Ratio,1.5,0.16 - 1.8,two-sided,0.16,1.8,,,1.2429268292682927
+R02,HVA/ DOPAC Ratio,1.5,0.10 - 1.8,two-sided,0.1,1.8,,,1.268235294117647
+R02,Hippuric,175.0,≤ 613,one-sided,,613.0,,,0.28548123980424145
+R02,Homogentisic,0.02,≤ 2.0,one-sided,,2.0,,,0.01
+R02,Homovanillic (HVA),1.0,0.80 - 3.6,two-sided,0.8,3.6,,,-1.6800000000000002
+R02,Kynurenic,0.64,≤ 2.2,one-sided,,2.2,,,0.2909090909090909
+R02,Lactic,8.6,≤ 48,one-sided,,48.0,,,0.17916666666666667
+R02,Malic,0.33,0.06 - 1.8,two-sided,0.06,1.8,,,-1.3517241379310347
+R02,Malonic,1.8,≤ 9.7,one-sided,,9.7,,,0.18556701030927836
+R02,Mandelic,0.2,≤ 2.0,one-sided,,2.0,,,0.1
+R02,Methylcitric,0.63,0.19 - 2.7,two-sided,0.19,2.7,,,-1.272828685258964
+R02,Methylmalonic,0.62,≤ 2.3,one-sided,,2.3,,,0.26956521739130435
+R02,Methylsuccinic,0.79,0.10 - 2.2,two-sided,0.1,2.2,,,-0.6720000000000002
+R02,N-Acetylaspartic,2.5,≤ 38,one-sided,,38.0,,,0.06578947368421052
+R02,N-Acetylcysteine (NAC),0.01,≤ 0.28,one-sided,,0.28,,,0.03571428571428571
+R02,Orotic,0.31,0.06 - 0.54,two-sided,0.06,0.54,,,0.08166666666666628
+R02,Oxalic,78.0,6.8 - 101,two-sided,6.8,101.0,,,1.0028874734607218
+R02,Pantothenic (B5),1.9,≤ 10,one-sided,,10.0,,,0.19
+R02,Phenyllactic,0.1,≤ 2.0,one-sided,,2.0,,,0.05
+R02,Phenylpyruvic,0.46,≤ 2.0,one-sided,,2.0,,,0.23
+R02,Pyridoxic (B6),1.1,≤ 34,one-sided,,34.0,,,0.03235294117647059
+R02,Pyroglutamic,23.0,10 - 33,two-sided,10.0,33.0,,,0.25565217391304346
+R02,Pyruvic,4.0,≤ 9.1,one-sided,,9.1,,,0.43956043956043955
+R02,Quinolinic,1.6,0.85 - 3.9,two-sided,0.85,3.9,,,-0.9960655737704918
+R02,Sebacic,0.02,≤ 0.24,one-sided,,0.24,,,0.08333333333333334
+R02,Suberic,1.4,0.18 - 2.2,two-sided,0.18,2.2,,,0.40752475247524705
+R02,Succinic,1.5,≤ 9.3,one-sided,,9.3,,,0.16129032258064516
+R02,Tartaric,1.4,≤ 4.5,one-sided,,4.5,,,0.3111111111111111
+R02,Thymine,0.21,≤ 0.56,one-sided,,0.56,,,0.37499999999999994
+R02,Tricarballylic,0.05,≤ 0.44,one-sided,,0.44,,,0.11363636363636365
+R02,Uracil,3.5,≤ 9.7,one-sided,,9.7,,,0.3608247422680413
+R02,Vanillylmandelic (VMA),0.69,0.46 - 3.7,two-sided,0.46,3.7,,,-1.6817283950617286
+R03,2-Hydroxybutyric,1.1,≤ 1.2,one-sided,,1.2,,,0.9166666666666667
+R03,2-Hydroxyhippuric,0.01,≤ 0.86,one-sided,,0.86,,,0.011627906976744186
+R03,2-Hydroxyisocaproic,0.19,≤ 2.0,one-sided,,2.0,,,0.095
+R03,2-Hydroxyisovaleric,0.08,≤ 2.0,one-sided,,2.0,,,0.04
+R03,2-Hydroxyphenylacetic,0.23,0.03 - 0.47,two-sided,0.03,0.47,,,-0.1781818181818181
+R03,2-Oxo-4-methiolbutyric,0.03,≤ 2.0,one-sided,,2.0,,,0.015
+R03,2-Oxoglutaric,8.3,≤ 18,one-sided,,18.0,,,0.46111111111111114
+R03,2-Oxoisocaproic,0.08,≤ 2.0,one-sided,,2.0,,,0.04
+R03,2-Oxoisovaleric,0.06,≤ 2.0,one-sided,,2.0,,,0.03
+R03,3-Hydroxy-3-methylglutaric,1.9,≤ 26,one-sided,,26.0,,,0.07307692307692307
+R03,3-Hydroxybutyric,0.45,≤ 1.9,one-sided,,1.9,,,0.2368421052631579
+R03,3-Hydroxyglutaric,1.6,≤ 4.6,one-sided,,4.6,,,0.3478260869565218
+R03,3-Indoleacetic,0.2,≤ 6.8,one-sided,,6.8,,,0.029411764705882356
+R03,3-Methyl-2-oxovaleric,0.5,≤ 2.0,one-sided,,2.0,,,0.25
+R03,3-Methylglutaconic,0.73,0.38 - 2.0,two-sided,0.38,2.0,,,-1.1130864197530863
+R03,3-Methylglutaric,0.17,0.02 - 0.38,two-sided,0.02,0.38,,,-0.32666666666666666
+R03,3-Oxoglutaric,0.02,≤ 0.11,one-sided,,0.11,,,0.18181818181818182
+R03,4-Cresol,6.8,≤ 39,one-sided,,39.0,,,0.17435897435897435
+R03,4-Hydroxybenzoic,0.28,≤ 0.73,one-sided,,0.73,,,0.3835616438356165
+R03,4-Hydroxybutyric,0.91,≤ 4.3,one-sided,,4.3,,,0.2116279069767442
+R03,4-Hydroxyhippuric,1.9,≤ 14,one-sided,,14.0,,,0.1357142857142857
+R03,4-Hydroxyphenylacetic,4.3,≤ 18,one-sided,,18.0,,,0.23888888888888887
+R03,4-Hydroxyphenyllactic,0.15,≤ 2.0,one-sided,,2.0,,,0.075
+R03,5-Hydroxyindoleacetic (5-HIAA),0.5,≤ 2.9,one-sided,,2.9,,,0.1724137931034483
+R03,5-Hydroxymethyl-2-furoic,1.2,≤ 18,one-sided,,18.0,,,0.06666666666666667
+R03,Acetoacetic,0.55,≤ 10,one-sided,,10.0,,,0.05500000000000001
+R03,Aconitic,6.9,4.1 - 23,two-sided,4.1,23.0,,,-1.3792592592592594
+R03,Adipic,0.4,≤ 2.9,one-sided,,2.9,,,0.13793103448275862
+R03,Arabinose,16.0,≤ 20,one-sided,,20.0,,,0.8
+R03,Ascorbic,0.33,10 - 200,two-sided,10.0,200.0,L,L,-2.159507368421053
+R03,Carboxycitric,0.01,≤ 20,one-sided,,20.0,,,0.0005
+R03,Citramalic,0.27,0.11 - 2.0,two-sided,0.11,2.0,,,-1.628148148148148
+R03,Citric,49.0,2.2 - 260,two-sided,2.2,260.0,,,-1.2483785880527538
+R03,DHPPA (Beneficial Bacteria),0.02,≤ 0.23,one-sided,,0.23,,,0.08695652173913043
+R03,Dihydroxyphenylacetic (DOPAC),1.2,0.27 - 1.9,two-sided,0.27,1.9,,,0.2765644171779141
+R03,Ethylmalonic,1.1,0.13 - 2.7,two-sided,0.13,2.7,,,-0.4804669260700388
+R03,Fumaric,0.1,≤ 0.49,one-sided,,0.49,,,0.20408163265306123
+R03,"Furan-2,5-dicarboxylic",1.2,≤ 13,one-sided,,13.0,,,0.0923076923076923
+R03,Furancarbonylglycine,0.14,≤ 2.3,one-sided,,2.3,,,0.060869565217391314
+R03,Glutaric,0.05,≤ 0.43,one-sided,,0.43,,,0.11627906976744187
+R03,Glyceric,1.0,0.21 - 4.9,two-sided,0.21,4.9,,,-1.2997014925373134
+R03,Glycolic,74.0,18 - 81,two-sided,18.0,81.0,,,1.5244444444444443
+R03,HPHPA,35.0,≤ 102,one-sided,,102.0,,,0.3431372549019608
+R03,HVA / VMA Ratio,1.7,0.32 - 1.4,two-sided,0.32,1.4,H,H,3.048888888888889
+R03,HVA/ DOPAC Ratio,0.66,0.17 - 1.6,two-sided,0.17,1.6,,,-0.6167832167832167
+R03,Hippuric,149.0,≤ 241,one-sided,,241.0,,,0.6182572614107884
+R03,Homogentisic,0.0,≤ 2.0,one-sided,,2.0,,,0.0
+R03,Homovanillic (HVA),0.81,0.39 - 2.2,two-sided,0.39,2.2,,,-1.050386740331492
+R03,Kynurenic,0.51,≤ 1.8,one-sided,,1.8,,,0.2833333333333333
+R03,Lactic,7.5,0.74 - 19,two-sided,0.74,19.0,,,-0.5087842278203721
+R03,Malic,0.2,≤ 1.1,one-sided,,1.1,,,0.18181818181818182
+R03,Malonic,2.8,≤ 9.9,one-sided,,9.9,,,0.2828282828282828
+R03,Mandelic,0.05,≤ 2.0,one-sided,,2.0,,,0.025
+R03,Methylcitric,0.34,0.15 - 1.7,two-sided,0.15,1.7,,,-1.4794838709677418
+R03,Methylmalonic,0.77,≤ 2.3,one-sided,,2.3,,,0.3347826086956522
+R03,Methylsuccinic,0.46,≤ 2.3,one-sided,,2.3,,,0.2
+R03,N-Acetylaspartic,1.0,≤ 38,one-sided,,38.0,,,0.02631578947368421
+R03,N-Acetylcysteine (NAC),0.03,≤ 0.13,one-sided,,0.13,,,0.23076923076923075
+R03,Orotic,0.12,≤ 0.46,one-sided,,0.46,,,0.2608695652173913
+R03,Oxalic,46.0,8.9 - 67,two-sided,8.9,67.0,,,0.5431325301204818
+R03,Pantothenic (B5),0.59,≤ 5.4,one-sided,,5.4,,,0.10925925925925925
+R03,Phenyllactic,0.27,≤ 2.0,one-sided,,2.0,,,0.135
+R03,Phenylpyruvic,0.35,≤ 2.0,one-sided,,2.0,,,0.175
+R03,Pyridoxic (B6),0.83,≤ 26,one-sided,,26.0,,,0.03192307692307692
+R03,Pyroglutamic,16.0,5.7 - 25,two-sided,5.7,25.0,,,0.1320207253886011
+R03,Pyruvic,3.2,0.28 - 6.7,two-sided,0.28,6.7,,,-0.1770716510903427
+R03,Quinolinic,1.3,0.52 - 2.4,two-sided,0.52,2.4,,,-0.3336170212765956
+R03,Sebacic,0.01,≤ 0.14,one-sided,,0.14,,,0.07142857142857142
+R03,Suberic,0.58,≤ 1.9,one-sided,,1.9,,,0.30526315789473685
+R03,Succinic,0.55,≤ 5.3,one-sided,,5.3,,,0.1037735849056604
+R03,Tartaric,0.01,≤ 5.3,one-sided,,5.3,,,0.0018867924528301887
+R03,Thymine,0.04,≤ 0.36,one-sided,,0.36,,,0.11111111111111112
+R03,Tricarballylic,0.08,≤ 0.58,one-sided,,0.58,,,0.13793103448275865
+R03,Uracil,1.9,≤ 6.9,one-sided,,6.9,,,0.27536231884057966
+R03,Vanillylmandelic (VMA),0.47,0.53 - 2.2,two-sided,0.53,2.2,L,L,-2.100838323353294
+R04,2-Hydroxybutyric,1.7,0.03 - 1.8,two-sided,0.03,1.8,,,1.7385310734463273
+R04,2-Hydroxyhippuric,0.27,≤ 1.3,one-sided,,1.3,,,0.2076923076923077
+R04,2-Hydroxyisocaproic,0.4,≤ 2.0,one-sided,,2.0,,,0.2
+R04,2-Hydroxyisovaleric,0.63,≤ 2.0,one-sided,,2.0,,,0.315
+R04,2-Hydroxyphenylacetic,0.24,0.06 - 0.66,two-sided,0.06,0.66,,,-0.7839999999999998
+R04,2-Oxo-4-methiolbutyric,0.04,≤ 2.0,one-sided,,2.0,,,0.02
+R04,2-Oxoglutaric,21.0,≤ 35,one-sided,,35.0,,,0.6
+R04,2-Oxoisocaproic,0.05,≤ 2.0,one-sided,,2.0,,,0.025
+R04,2-Oxoisovaleric,0.32,≤ 2.1,one-sided,,2.1,,,0.15238095238095237
+R04,3-Hydroxy-3-methylglutaric,9.4,0.17 - 39,two-sided,0.17,39.0,,,-1.0282049961370074
+R04,3-Hydroxybutyric,1.7,≤ 3.1,one-sided,,3.1,,,0.5483870967741935
+R04,3-Hydroxyglutaric,5.5,≤ 6.2,one-sided,,6.2,,,0.8870967741935484
+R04,3-Indoleacetic,2.9,≤ 11,one-sided,,11.0,,,0.2636363636363636
+R04,3-Methyl-2-oxovaleric,0.35,≤ 2.0,one-sided,,2.0,,,0.175
+R04,3-Methylglutaconic,0.84,≤ 4.5,one-sided,,4.5,,,0.18666666666666665
+R04,3-Methylglutaric,0.28,≤ 0.76,one-sided,,0.76,,,0.368421052631579
+R04,3-Oxoglutaric,0.07,≤ 0.33,one-sided,,0.33,,,0.21212121212121213
+R04,4-Cresol,2.6,≤ 75,one-sided,,75.0,,,0.034666666666666665
+R04,4-Hydroxybenzoic,0.72,≤ 1.3,one-sided,,1.3,,,0.5538461538461538
+R04,4-Hydroxybutyric,2.3,≤ 4.8,one-sided,,4.8,,,0.47916666666666663
+R04,4-Hydroxyhippuric,5.1,0.79 - 17,two-sided,0.79,17.0,,,-0.9177297964219616
+R04,4-Hydroxyphenylacetic,8.4,≤ 19,one-sided,,19.0,,,0.4421052631578948
+R04,4-Hydroxyphenyllactic,0.34,≤ 2.0,one-sided,,2.0,,,0.17
+R04,5-Hydroxyindoleacetic (5-HIAA),0.68,≤ 4.3,one-sided,,4.3,,,0.15813953488372096
+R04,5-Hydroxymethyl-2-furoic,0.74,≤ 14,one-sided,,14.0,,,0.05285714285714286
+R04,Acetoacetic,0.61,≤ 10,one-sided,,10.0,,,0.061
+R04,Aconitic,7.2,6.8 - 28,two-sided,6.8,28.0,,,-1.8860377358490565
+R04,Adipic,0.88,0.04 - 3.8,two-sided,0.04,3.8,,,-1.0842553191489364
+R04,Arabinose,15.0,≤ 29,one-sided,,29.0,,,0.5172413793103449
+R04,Ascorbic,0.37,10 - 200,two-sided,10.0,200.0,L,L,-2.158682105263158
+R04,Carboxycitric,50.0,≤ 29,one-sided,,29.0,H,H,1.7241379310344827
+R04,Citramalic,1.7,≤ 3.6,one-sided,,3.6,,,0.4722222222222222
+R04,Citric,299.0,≤ 507,one-sided,,507.0,,,0.5897435897435898
+R04,DHPPA (Beneficial Bacteria),0.02,≤ 0.38,one-sided,,0.38,,,0.05263157894736842
+R04,Dihydroxyphenylacetic (DOPAC),3.6,0.08 - 3.5,two-sided,0.08,3.5,H,H,2.0746198830409357
+R04,Ethylmalonic,1.2,0.44 - 2.8,two-sided,0.44,2.8,,,-0.6976271186440677
+R04,Fumaric,0.25,≤ 0.94,one-sided,,0.94,,,0.26595744680851063
+R04,"Furan-2,5-dicarboxylic",1.2,≤ 16,one-sided,,16.0,,,0.075
+R04,Furancarbonylglycine,0.11,≤ 1.9,one-sided,,1.9,,,0.05789473684210526
+R04,Glutaric,0.28,0.04 - 0.36,two-sided,0.04,0.36,,,0.9800000000000004
+R04,Glyceric,4.5,0.77 - 7.0,two-sided,0.77,7.0,,,0.3869662921348316
+R04,Glycolic,133.0,16 - 117,two-sided,16.0,117.0,H,H,2.580990099009901
+R04,HPHPA,74.0,≤ 208,one-sided,,208.0,,,0.3557692307692308
+R04,HVA / VMA Ratio,1.2,0.16 - 1.8,two-sided,0.16,1.8,,,0.5258536585365853
+R04,HVA/ DOPAC Ratio,0.45,0.10 - 1.8,two-sided,0.1,1.8,,,-1.1529411764705884
+R04,Hippuric,63.0,≤ 613,one-sided,,613.0,,,0.10277324632952692
+R04,Homogentisic,0.01,≤ 2.0,one-sided,,2.0,,,0.005
+R04,Homovanillic (HVA),1.6,0.80 - 3.6,two-sided,0.8,3.6,,,-0.8400000000000001
+R04,Kynurenic,0.84,≤ 2.2,one-sided,,2.2,,,0.3818181818181818
+R04,Lactic,42.0,≤ 48,one-sided,,48.0,,,0.875
+R04,Malic,0.72,0.06 - 1.8,two-sided,0.06,1.8,,,-0.47310344827586226
+R04,Malonic,3.6,≤ 9.7,one-sided,,9.7,,,0.3711340206185567
+R04,Mandelic,0.07,≤ 2.0,one-sided,,2.0,,,0.035
+R04,Methylcitric,0.85,0.19 - 2.7,two-sided,0.19,2.7,,,-0.9292430278884463
+R04,Methylmalonic,1.4,≤ 2.3,one-sided,,2.3,,,0.6086956521739131
+R04,Methylsuccinic,1.0,0.10 - 2.2,two-sided,0.1,2.2,,,-0.28000000000000025
+R04,N-Acetylaspartic,3.0,≤ 38,one-sided,,38.0,,,0.07894736842105263
+R04,N-Acetylcysteine (NAC),0.0,≤ 0.28,one-sided,,0.28,,,0.0
+R04,Orotic,0.45,0.06 - 0.54,two-sided,0.06,0.54,,,1.2249999999999996
+R04,Oxalic,41.0,6.8 - 101,two-sided,6.8,101.0,,,-0.5368152866242037
+R04,Pantothenic (B5),1.9,≤ 10,one-sided,,10.0,,,0.19
+R04,Phenyllactic,0.09,≤ 2.0,one-sided,,2.0,,,0.045
+R04,Phenylpyruvic,0.0,≤ 2.0,one-sided,,2.0,,,0.0
+R04,Pyridoxic (B6),1.5,≤ 34,one-sided,,34.0,,,0.04411764705882353
+R04,Pyroglutamic,31.0,10 - 33,two-sided,10.0,33.0,,,1.6191304347826088
+R04,Pyruvic,0.47,≤ 9.1,one-sided,,9.1,,,0.051648351648351645
+R04,Quinolinic,2.3,0.85 - 3.9,two-sided,0.85,3.9,,,-0.09639344262295105
+R04,Sebacic,0.11,≤ 0.24,one-sided,,0.24,,,0.45833333333333337
+R04,Suberic,1.7,0.18 - 2.2,two-sided,0.18,2.2,,,0.9897029702970294
+R04,Succinic,5.1,≤ 9.3,one-sided,,9.3,,,0.5483870967741935
+R04,Tartaric,0.16,≤ 4.5,one-sided,,4.5,,,0.035555555555555556
+R04,Thymine,0.28,≤ 0.56,one-sided,,0.56,,,0.5
+R04,Tricarballylic,0.1,≤ 0.44,one-sided,,0.44,,,0.2272727272727273
+R04,Uracil,6.5,≤ 9.7,one-sided,,9.7,,,0.6701030927835052
+R04,Vanillylmandelic (VMA),1.4,0.46 - 3.7,two-sided,0.46,3.7,,,-0.8227160493827163
+R05,2-Hydroxybutyric,1.6,≤ 1.2,one-sided,,1.2,H,H,1.3333333333333335
+R05,2-Hydroxyhippuric,0.15,≤ 0.86,one-sided,,0.86,,,0.1744186046511628
+R05,2-Hydroxyisocaproic,0.15,≤ 2.0,one-sided,,2.0,,,0.075
+R05,2-Hydroxyisovaleric,0.32,≤ 2.0,one-sided,,2.0,,,0.16
+R05,2-Hydroxyphenylacetic,0.23,0.03 - 0.47,two-sided,0.03,0.47,,,-0.1781818181818181
+R05,2-Oxo-4-methiolbutyric,0.08,≤ 2.0,one-sided,,2.0,,,0.04
+R05,2-Oxoglutaric,6.2,≤ 18,one-sided,,18.0,,,0.34444444444444444
+R05,2-Oxoisocaproic,0.07,≤ 2.0,one-sided,,2.0,,,0.035
+R05,2-Oxoisovaleric,0.03,≤ 2.0,one-sided,,2.0,,,0.015
+R05,3-Hydroxy-3-methylglutaric,5.4,≤ 26,one-sided,,26.0,,,0.2076923076923077
+R05,3-Hydroxybutyric,5.9,≤ 1.9,one-sided,,1.9,H,H,3.105263157894737
+R05,3-Hydroxyglutaric,3.3,≤ 4.6,one-sided,,4.6,,,0.717391304347826
+R05,3-Indoleacetic,0.37,≤ 6.8,one-sided,,6.8,,,0.054411764705882354
+R05,3-Methyl-2-oxovaleric,0.44,≤ 2.0,one-sided,,2.0,,,0.22
+R05,3-Methylglutaconic,1.6,0.38 - 2.0,two-sided,0.38,2.0,,,0.9920987654320991
+R05,3-Methylglutaric,0.58,0.02 - 0.38,two-sided,0.02,0.38,H,H,4.137777777777777
+R05,3-Oxoglutaric,0.28,≤ 0.11,one-sided,,0.11,H,H,2.545454545454546
+R05,4-Cresol,12.0,≤ 39,one-sided,,39.0,,,0.3076923076923077
+R05,4-Hydroxybenzoic,0.33,≤ 0.73,one-sided,,0.73,,,0.452054794520548
+R05,4-Hydroxybutyric,3.2,≤ 4.3,one-sided,,4.3,,,0.744186046511628
+R05,4-Hydroxyhippuric,2.5,≤ 14,one-sided,,14.0,,,0.17857142857142858
+R05,4-Hydroxyphenylacetic,4.9,≤ 18,one-sided,,18.0,,,0.27222222222222225
+R05,4-Hydroxyphenyllactic,0.24,≤ 2.0,one-sided,,2.0,,,0.12
+R05,5-Hydroxyindoleacetic (5-HIAA),0.79,≤ 2.9,one-sided,,2.9,,,0.2724137931034483
+R05,5-Hydroxymethyl-2-furoic,2.6,≤ 18,one-sided,,18.0,,,0.14444444444444446
+R05,Acetoacetic,9.5,≤ 10,one-sided,,10.0,,,0.95
+R05,Aconitic,7.9,4.1 - 23,two-sided,4.1,23.0,,,-1.171851851851852
+R05,Adipic,1.2,≤ 2.9,one-sided,,2.9,,,0.41379310344827586
+R05,Arabinose,29.0,≤ 20,one-sided,,20.0,H,H,1.45
+R05,Ascorbic,124.0,10 - 200,two-sided,10.0,200.0,,,0.392
+R05,Carboxycitric,0.34,≤ 20,one-sided,,20.0,,,0.017
+R05,Citramalic,0.51,0.11 - 2.0,two-sided,0.11,2.0,,,-1.1303703703703702
+R05,Citric,159.0,2.2 - 260,two-sided,2.2,260.0,,,0.4242358417377812
+R05,DHPPA (Beneficial Bacteria),0.05,≤ 0.23,one-sided,,0.23,,,0.21739130434782608
+R05,Dihydroxyphenylacetic (DOPAC),1.4,0.27 - 1.9,two-sided,0.27,1.9,,,0.7575460122699386
+R05,Ethylmalonic,0.76,0.13 - 2.7,two-sided,0.13,2.7,,,-0.9990661478599222
+R05,Fumaric,0.51,≤ 0.49,one-sided,,0.49,H,H,1.0408163265306123
+R05,"Furan-2,5-dicarboxylic",1.5,≤ 13,one-sided,,13.0,,,0.11538461538461539
+R05,Furancarbonylglycine,0.7,≤ 2.3,one-sided,,2.3,,,0.30434782608695654
+R05,Glutaric,0.33,≤ 0.43,one-sided,,0.43,,,0.7674418604651163
+R05,Glyceric,1.9,0.21 - 4.9,two-sided,0.21,4.9,,,-0.5474626865671643
+R05,Glycolic,59.0,18 - 81,two-sided,18.0,81.0,,,0.591111111111111
+R05,HPHPA,4.6,≤ 102,one-sided,,102.0,,,0.045098039215686274
+R05,HVA / VMA Ratio,1.3,0.32 - 1.4,two-sided,0.32,1.4,,,1.5970370370370375
+R05,HVA/ DOPAC Ratio,0.82,0.17 - 1.6,two-sided,0.17,1.6,,,-0.17818181818181833
+R05,Hippuric,206.0,≤ 241,one-sided,,241.0,,,0.8547717842323651
+R05,Homogentisic,0.06,≤ 2.0,one-sided,,2.0,,,0.03
+R05,Homovanillic (HVA),1.2,0.39 - 2.2,two-sided,0.39,2.2,,,-0.20574585635359158
+R05,Kynurenic,0.26,≤ 1.8,one-sided,,1.8,,,0.14444444444444446
+R05,Lactic,9.3,0.74 - 19,two-sided,0.74,19.0,,,-0.12236582694413986
+R05,Malic,0.77,≤ 1.1,one-sided,,1.1,,,0.7
+R05,Malonic,2.6,≤ 9.9,one-sided,,9.9,,,0.26262626262626265
+R05,Mandelic,0.07,≤ 2.0,one-sided,,2.0,,,0.035
+R05,Methylcitric,0.48,0.15 - 1.7,two-sided,0.15,1.7,,,-1.1254193548387095
+R05,Methylmalonic,1.0,≤ 2.3,one-sided,,2.3,,,0.4347826086956522
+R05,Methylsuccinic,0.73,≤ 2.3,one-sided,,2.3,,,0.3173913043478261
+R05,N-Acetylaspartic,0.85,≤ 38,one-sided,,38.0,,,0.02236842105263158
+R05,N-Acetylcysteine (NAC),0.0,≤ 0.13,one-sided,,0.13,,,0.0
+R05,Orotic,0.34,≤ 0.46,one-sided,,0.46,,,0.7391304347826088
+R05,Oxalic,45.0,8.9 - 67,two-sided,8.9,67.0,,,0.4756626506024095
+R05,Pantothenic (B5),0.97,≤ 5.4,one-sided,,5.4,,,0.1796296296296296
+R05,Phenyllactic,0.06,≤ 2.0,one-sided,,2.0,,,0.03
+R05,Phenylpyruvic,0.07,≤ 2.0,one-sided,,2.0,,,0.035
+R05,Pyridoxic (B6),1.3,≤ 26,one-sided,,26.0,,,0.05
+R05,Pyroglutamic,21.0,5.7 - 25,two-sided,5.7,25.0,,,1.1475647668393782
+R05,Pyruvic,1.0,0.28 - 6.7,two-sided,0.28,6.7,,,-1.5203738317757012
+R05,Quinolinic,1.2,0.52 - 2.4,two-sided,0.52,2.4,,,-0.5421276595744682
+R05,Sebacic,0.09,≤ 0.14,one-sided,,0.14,,,0.6428571428571428
+R05,Suberic,1.3,≤ 1.9,one-sided,,1.9,,,0.6842105263157895
+R05,Succinic,7.1,≤ 5.3,one-sided,,5.3,H,H,1.3396226415094339
+R05,Tartaric,5.0,≤ 5.3,one-sided,,5.3,,,0.9433962264150944
+R05,Thymine,0.17,≤ 0.36,one-sided,,0.36,,,0.47222222222222227
+R05,Tricarballylic,0.05,≤ 0.58,one-sided,,0.58,,,0.08620689655172414
+R05,Uracil,2.6,≤ 6.9,one-sided,,6.9,,,0.37681159420289856
+R05,Vanillylmandelic (VMA),0.93,0.53 - 2.2,two-sided,0.53,2.2,,,-1.0210778443113775
+R06,2-Hydroxybutyric,0.33,≤ 1.2,one-sided,,1.2,,,0.275
+R06,2-Hydroxyhippuric,0.21,≤ 0.86,one-sided,,0.86,,,0.2441860465116279
+R06,2-Hydroxyisocaproic,0.0,≤ 2.0,one-sided,,2.0,,,0.0
+R06,2-Hydroxyisovaleric,0.02,≤ 2.0,one-sided,,2.0,,,0.01
+R06,2-Hydroxyphenylacetic,0.24,0.03 - 0.47,two-sided,0.03,0.47,,,-0.08909090909090918
+R06,2-Oxo-4-methiolbutyric,0.04,≤ 2.0,one-sided,,2.0,,,0.02
+R06,2-Oxoglutaric,4.1,≤ 18,one-sided,,18.0,,,0.22777777777777775
+R06,2-Oxoisocaproic,0.08,≤ 2.0,one-sided,,2.0,,,0.04
+R06,2-Oxoisovaleric,0.13,≤ 2.0,one-sided,,2.0,,,0.065
+R06,3-Hydroxy-3-methylglutaric,3.3,≤ 26,one-sided,,26.0,,,0.12692307692307692
+R06,3-Hydroxybutyric,0.51,≤ 1.9,one-sided,,1.9,,,0.26842105263157895
+R06,3-Hydroxyglutaric,2.4,≤ 4.6,one-sided,,4.6,,,0.5217391304347826
+R06,3-Indoleacetic,0.36,≤ 6.8,one-sided,,6.8,,,0.052941176470588235
+R06,3-Methyl-2-oxovaleric,0.14,≤ 2.0,one-sided,,2.0,,,0.07
+R06,3-Methylglutaconic,0.74,0.38 - 2.0,two-sided,0.38,2.0,,,-1.0888888888888888
+R06,3-Methylglutaric,0.14,0.02 - 0.38,two-sided,0.02,0.38,,,-0.6533333333333333
+R06,3-Oxoglutaric,0.05,≤ 0.11,one-sided,,0.11,,,0.4545454545454546
+R06,4-Cresol,8.5,≤ 39,one-sided,,39.0,,,0.21794871794871795
+R06,4-Hydroxybenzoic,0.18,≤ 0.73,one-sided,,0.73,,,0.2465753424657534
+R06,4-Hydroxybutyric,1.3,≤ 4.3,one-sided,,4.3,,,0.3023255813953489
+R06,4-Hydroxyhippuric,2.8,≤ 14,one-sided,,14.0,,,0.19999999999999998
+R06,4-Hydroxyphenylacetic,3.2,≤ 18,one-sided,,18.0,,,0.17777777777777778
+R06,4-Hydroxyphenyllactic,0.14,≤ 2.0,one-sided,,2.0,,,0.07
+R06,5-Hydroxyindoleacetic (5-HIAA),0.47,≤ 2.9,one-sided,,2.9,,,0.16206896551724137
+R06,5-Hydroxymethyl-2-furoic,0.83,≤ 18,one-sided,,18.0,,,0.04611111111111111
+R06,Acetoacetic,0.47,≤ 10,one-sided,,10.0,,,0.047
+R06,Aconitic,6.1,4.1 - 23,two-sided,4.1,23.0,,,-1.5451851851851854
+R06,Adipic,0.92,≤ 2.9,one-sided,,2.9,,,0.31724137931034485
+R06,Arabinose,24.0,≤ 20,one-sided,,20.0,H,H,1.2
+R06,Ascorbic,7.8,10 - 200,two-sided,10.0,200.0,L,L,-2.0053894736842106
+R06,Carboxycitric,0.32,≤ 20,one-sided,,20.0,,,0.016
+R06,Citramalic,0.4,0.11 - 2.0,two-sided,0.11,2.0,,,-1.3585185185185182
+R06,Citric,45.0,2.2 - 260,two-sided,2.2,260.0,,,-1.3092009309542278
+R06,DHPPA (Beneficial Bacteria),0.02,≤ 0.23,one-sided,,0.23,,,0.08695652173913043
+R06,Dihydroxyphenylacetic (DOPAC),0.94,0.27 - 1.9,two-sided,0.27,1.9,,,-0.34871165644171787
+R06,Ethylmalonic,0.87,0.13 - 2.7,two-sided,0.13,2.7,,,-0.831284046692607
+R06,Fumaric,0.07,≤ 0.49,one-sided,,0.49,,,0.14285714285714288
+R06,"Furan-2,5-dicarboxylic",1.9,≤ 13,one-sided,,13.0,,,0.14615384615384613
+R06,Furancarbonylglycine,0.16,≤ 2.3,one-sided,,2.3,,,0.06956521739130435
+R06,Glutaric,0.12,≤ 0.43,one-sided,,0.43,,,0.27906976744186046
+R06,Glyceric,0.61,0.21 - 4.9,two-sided,0.21,4.9,,,-1.6256716417910448
+R06,Glycolic,57.0,18 - 81,two-sided,18.0,81.0,,,0.4666666666666666
+R06,HPHPA,33.0,≤ 102,one-sided,,102.0,,,0.3235294117647059
+R06,HVA / VMA Ratio,1.1,0.32 - 1.4,two-sided,0.32,1.4,,,0.8711111111111116
+R06,HVA/ DOPAC Ratio,0.79,0.17 - 1.6,two-sided,0.17,1.6,,,-0.2604195804195803
+R06,Hippuric,28.0,≤ 241,one-sided,,241.0,,,0.11618257261410789
+R06,Homogentisic,0.01,≤ 2.0,one-sided,,2.0,,,0.005
+R06,Homovanillic (HVA),0.74,0.39 - 2.2,two-sided,0.39,2.2,,,-1.2019889502762433
+R06,Kynurenic,0.64,≤ 1.8,one-sided,,1.8,,,0.35555555555555557
+R06,Lactic,3.2,0.74 - 19,two-sided,0.74,19.0,,,-1.4318948521358157
+R06,Malic,0.17,≤ 1.1,one-sided,,1.1,,,0.15454545454545454
+R06,Malonic,1.8,≤ 9.9,one-sided,,9.9,,,0.18181818181818182
+R06,Mandelic,0.07,≤ 2.0,one-sided,,2.0,,,0.035
+R06,Methylcitric,0.52,0.15 - 1.7,two-sided,0.15,1.7,,,-1.0242580645161288
+R06,Methylmalonic,0.56,≤ 2.3,one-sided,,2.3,,,0.24347826086956526
+R06,Methylsuccinic,0.48,≤ 2.3,one-sided,,2.3,,,0.20869565217391306
+R06,N-Acetylaspartic,1.2,≤ 38,one-sided,,38.0,,,0.031578947368421054
+R06,N-Acetylcysteine (NAC),0.0,≤ 0.13,one-sided,,0.13,,,0.0
+R06,Orotic,0.19,≤ 0.46,one-sided,,0.46,,,0.41304347826086957
+R06,Oxalic,45.0,8.9 - 67,two-sided,8.9,67.0,,,0.4756626506024095
+R06,Pantothenic (B5),0.24,≤ 5.4,one-sided,,5.4,,,0.04444444444444444
+R06,Phenyllactic,0.01,≤ 2.0,one-sided,,2.0,,,0.005
+R06,Phenylpyruvic,0.0,≤ 2.0,one-sided,,2.0,,,0.0
+R06,Pyridoxic (B6),0.58,≤ 26,one-sided,,26.0,,,0.022307692307692306
+R06,Pyroglutamic,8.4,5.7 - 25,two-sided,5.7,25.0,,,-1.41160621761658
+R06,Pyruvic,3.2,0.28 - 6.7,two-sided,0.28,6.7,,,-0.1770716510903427
+R06,Quinolinic,1.3,0.52 - 2.4,two-sided,0.52,2.4,,,-0.3336170212765956
+R06,Sebacic,0.03,≤ 0.14,one-sided,,0.14,,,0.21428571428571425
+R06,Suberic,1.2,≤ 1.9,one-sided,,1.9,,,0.631578947368421
+R06,Succinic,1.2,≤ 5.3,one-sided,,5.3,,,0.22641509433962265
+R06,Tartaric,0.04,≤ 5.3,one-sided,,5.3,,,0.007547169811320755
+R06,Thymine,0.09,≤ 0.36,one-sided,,0.36,,,0.25
+R06,Tricarballylic,0.03,≤ 0.58,one-sided,,0.58,,,0.05172413793103448
+R06,Uracil,2.3,≤ 6.9,one-sided,,6.9,,,0.3333333333333333
+R06,Vanillylmandelic (VMA),0.68,0.53 - 2.2,two-sided,0.53,2.2,,,-1.6079041916167667
+R07,2-Hydroxybutyric,0.51,≤ 1.2,one-sided,,1.2,,,0.42500000000000004
+R07,2-Hydroxyhippuric,3.2,≤ 0.86,one-sided,,0.86,H,H,3.72093023255814
+R07,2-Hydroxyisocaproic,0.0,≤ 2.0,one-sided,,2.0,,,0.0
+R07,2-Hydroxyisovaleric,0.49,≤ 2.0,one-sided,,2.0,,,0.245
+R07,2-Hydroxyphenylacetic,0.2,0.03 - 0.47,two-sided,0.03,0.47,,,-0.44545454545454544
+R07,2-Oxo-4-methiolbutyric,0.03,≤ 2.0,one-sided,,2.0,,,0.015
+R07,2-Oxoglutaric,10.0,≤ 18,one-sided,,18.0,,,0.5555555555555556
+R07,2-Oxoisocaproic,0.1,≤ 2.0,one-sided,,2.0,,,0.05
+R07,2-Oxoisovaleric,0.06,≤ 2.0,one-sided,,2.0,,,0.03
+R07,3-Hydroxy-3-methylglutaric,6.0,≤ 26,one-sided,,26.0,,,0.23076923076923078
+R07,3-Hydroxybutyric,0.46,≤ 1.9,one-sided,,1.9,,,0.24210526315789477
+R07,3-Hydroxyglutaric,2.6,≤ 4.6,one-sided,,4.6,,,0.5652173913043479
+R07,3-Indoleacetic,0.29,≤ 6.8,one-sided,,6.8,,,0.04264705882352941
+R07,3-Methyl-2-oxovaleric,0.26,≤ 2.0,one-sided,,2.0,,,0.13
+R07,3-Methylglutaconic,0.91,0.38 - 2.0,two-sided,0.38,2.0,,,-0.6775308641975306
+R07,3-Methylglutaric,0.35,0.02 - 0.38,two-sided,0.02,0.38,,,1.6333333333333329
+R07,3-Oxoglutaric,0.0,≤ 0.11,one-sided,,0.11,,,0.0
+R07,4-Cresol,11.0,≤ 39,one-sided,,39.0,,,0.28205128205128205
+R07,4-Hydroxybenzoic,0.49,≤ 0.73,one-sided,,0.73,,,0.6712328767123288
+R07,4-Hydroxybutyric,0.73,≤ 4.3,one-sided,,4.3,,,0.1697674418604651
+R07,4-Hydroxyhippuric,3.3,≤ 14,one-sided,,14.0,,,0.2357142857142857
+R07,4-Hydroxyphenylacetic,5.2,≤ 18,one-sided,,18.0,,,0.2888888888888889
+R07,4-Hydroxyphenyllactic,0.73,≤ 2.0,one-sided,,2.0,,,0.365
+R07,5-Hydroxyindoleacetic (5-HIAA),1.2,≤ 2.9,one-sided,,2.9,,,0.41379310344827586
+R07,5-Hydroxymethyl-2-furoic,2.0,≤ 18,one-sided,,18.0,,,0.1111111111111111
+R07,Acetoacetic,0.29,≤ 10,one-sided,,10.0,,,0.028999999999999998
+R07,Aconitic,7.7,4.1 - 23,two-sided,4.1,23.0,,,-1.2133333333333336
+R07,Adipic,0.83,≤ 2.9,one-sided,,2.9,,,0.28620689655172415
+R07,Arabinose,33.0,≤ 20,one-sided,,20.0,H,H,1.65
+R07,Ascorbic,0.5,10 - 200,two-sided,10.0,200.0,L,L,-2.156
+R07,Carboxycitric,0.01,≤ 20,one-sided,,20.0,,,0.0005
+R07,Citramalic,1.3,0.11 - 2.0,two-sided,0.11,2.0,,,0.5081481481481483
+R07,Citric,121.0,2.2 - 260,two-sided,2.2,260.0,,,-0.15357641582622178
+R07,DHPPA (Beneficial Bacteria),0.02,≤ 0.23,one-sided,,0.23,,,0.08695652173913043
+R07,Dihydroxyphenylacetic (DOPAC),0.91,0.27 - 1.9,two-sided,0.27,1.9,,,-0.4208588957055213
+R07,Ethylmalonic,3.2,0.13 - 2.7,two-sided,0.13,2.7,H,H,2.722645914396887
+R07,Fumaric,0.21,≤ 0.49,one-sided,,0.49,,,0.42857142857142855
+R07,"Furan-2,5-dicarboxylic",3.3,≤ 13,one-sided,,13.0,,,0.25384615384615383
+R07,Furancarbonylglycine,0.02,≤ 2.3,one-sided,,2.3,,,0.008695652173913044
+R07,Glutaric,0.12,≤ 0.43,one-sided,,0.43,,,0.27906976744186046
+R07,Glyceric,1.9,0.21 - 4.9,two-sided,0.21,4.9,,,-0.5474626865671643
+R07,Glycolic,38.0,18 - 81,two-sided,18.0,81.0,,,-0.7155555555555555
+R07,HPHPA,11.0,≤ 102,one-sided,,102.0,,,0.10784313725490197
+R07,HVA / VMA Ratio,0.91,0.32 - 1.4,two-sided,0.32,1.4,,,0.18148148148148166
+R07,HVA/ DOPAC Ratio,1.3,0.17 - 1.6,two-sided,0.17,1.6,,,1.1376223776223775
+R07,Hippuric,93.0,≤ 241,one-sided,,241.0,,,0.38589211618257263
+R07,Homogentisic,0.01,≤ 2.0,one-sided,,2.0,,,0.005
+R07,Homovanillic (HVA),1.1,0.39 - 2.2,two-sided,0.39,2.2,,,-0.42232044198895036
+R07,Kynurenic,0.54,≤ 1.8,one-sided,,1.8,,,0.3
+R07,Lactic,6.9,0.74 - 19,two-sided,0.74,19.0,,,-0.6375903614457828
+R07,Malic,0.48,≤ 1.1,one-sided,,1.1,,,0.4363636363636363
+R07,Malonic,1.8,≤ 9.9,one-sided,,9.9,,,0.18181818181818182
+R07,Mandelic,0.08,≤ 2.0,one-sided,,2.0,,,0.04
+R07,Methylcitric,0.61,0.15 - 1.7,two-sided,0.15,1.7,,,-0.7966451612903224
+R07,Methylmalonic,0.47,≤ 2.3,one-sided,,2.3,,,0.20434782608695654
+R07,Methylsuccinic,1.6,≤ 2.3,one-sided,,2.3,,,0.6956521739130436
+R07,N-Acetylaspartic,0.79,≤ 38,one-sided,,38.0,,,0.020789473684210528
+R07,N-Acetylcysteine (NAC),0.02,≤ 0.13,one-sided,,0.13,,,0.15384615384615385
+R07,Orotic,0.19,≤ 0.46,one-sided,,0.46,,,0.41304347826086957
+R07,Oxalic,40.0,8.9 - 67,two-sided,8.9,67.0,,,0.138313253012048
+R07,Pantothenic (B5),0.82,≤ 5.4,one-sided,,5.4,,,0.15185185185185182
+R07,Phenyllactic,0.15,≤ 2.0,one-sided,,2.0,,,0.075
+R07,Phenylpyruvic,0.0,≤ 2.0,one-sided,,2.0,,,0.0
+R07,Pyridoxic (B6),1.5,≤ 26,one-sided,,26.0,,,0.057692307692307696
+R07,Pyroglutamic,28.0,5.7 - 25,two-sided,5.7,25.0,H,H,2.569326424870466
+R07,Pyruvic,4.6,0.28 - 6.7,two-sided,0.28,6.7,,,0.6777570093457941
+R07,Quinolinic,3.2,0.52 - 2.4,two-sided,0.52,2.4,H,H,3.6280851063829793
+R07,Sebacic,0.0,≤ 0.14,one-sided,,0.14,,,0.0
+R07,Suberic,1.3,≤ 1.9,one-sided,,1.9,,,0.6842105263157895
+R07,Succinic,1.9,≤ 5.3,one-sided,,5.3,,,0.3584905660377358
+R07,Tartaric,0.51,≤ 5.3,one-sided,,5.3,,,0.09622641509433963
+R07,Thymine,0.04,≤ 0.36,one-sided,,0.36,,,0.11111111111111112
+R07,Tricarballylic,0.08,≤ 0.58,one-sided,,0.58,,,0.13793103448275865
+R07,Uracil,2.0,≤ 6.9,one-sided,,6.9,,,0.2898550724637681
+R07,Vanillylmandelic (VMA),1.3,0.53 - 2.2,two-sided,0.53,2.2,,,-0.15257485029940157
+R08,2-Hydroxybutyric,0.52,≤ 1.2,one-sided,,1.2,,,0.43333333333333335
+R08,2-Hydroxyhippuric,0.15,≤ 0.86,one-sided,,0.86,,,0.1744186046511628
+R08,2-Hydroxyisocaproic,0.0,≤ 2.0,one-sided,,2.0,,,0.0
+R08,2-Hydroxyisovaleric,0.03,≤ 2.0,one-sided,,2.0,,,0.015
+R08,2-Hydroxyphenylacetic,0.2,0.03 - 0.47,two-sided,0.03,0.47,,,-0.44545454545454544
+R08,2-Oxo-4-methiolbutyric,0.02,≤ 2.0,one-sided,,2.0,,,0.01
+R08,2-Oxoglutaric,6.0,≤ 18,one-sided,,18.0,,,0.3333333333333333
+R08,2-Oxoisocaproic,0.15,≤ 2.0,one-sided,,2.0,,,0.075
+R08,2-Oxoisovaleric,0.1,≤ 2.0,one-sided,,2.0,,,0.05
+R08,3-Hydroxy-3-methylglutaric,5.3,≤ 26,one-sided,,26.0,,,0.20384615384615384
+R08,3-Hydroxybutyric,1.3,≤ 1.9,one-sided,,1.9,,,0.6842105263157895
+R08,3-Hydroxyglutaric,2.6,≤ 4.6,one-sided,,4.6,,,0.5652173913043479
+R08,3-Indoleacetic,0.16,≤ 6.8,one-sided,,6.8,,,0.023529411764705882
+R08,3-Methyl-2-oxovaleric,0.51,≤ 2.0,one-sided,,2.0,,,0.255
+R08,3-Methylglutaconic,0.73,0.38 - 2.0,two-sided,0.38,2.0,,,-1.1130864197530863
+R08,3-Methylglutaric,0.24,0.02 - 0.38,two-sided,0.02,0.38,,,0.4355555555555553
+R08,3-Oxoglutaric,0.0,≤ 0.11,one-sided,,0.11,,,0.0
+R08,4-Cresol,13.0,≤ 39,one-sided,,39.0,,,0.3333333333333333
+R08,4-Hydroxybenzoic,0.27,≤ 0.73,one-sided,,0.73,,,0.36986301369863017
+R08,4-Hydroxybutyric,1.1,≤ 4.3,one-sided,,4.3,,,0.2558139534883721
+R08,4-Hydroxyhippuric,3.2,≤ 14,one-sided,,14.0,,,0.2285714285714286
+R08,4-Hydroxyphenylacetic,3.9,≤ 18,one-sided,,18.0,,,0.21666666666666667
+R08,4-Hydroxyphenyllactic,0.09,≤ 2.0,one-sided,,2.0,,,0.045
+R08,5-Hydroxyindoleacetic (5-HIAA),0.43,≤ 2.9,one-sided,,2.9,,,0.1482758620689655
+R08,5-Hydroxymethyl-2-furoic,1.7,≤ 18,one-sided,,18.0,,,0.09444444444444444
+R08,Acetoacetic,0.88,≤ 10,one-sided,,10.0,,,0.088
+R08,Aconitic,6.3,4.1 - 23,two-sided,4.1,23.0,,,-1.503703703703704
+R08,Adipic,0.81,≤ 2.9,one-sided,,2.9,,,0.2793103448275862
+R08,Arabinose,28.0,≤ 20,one-sided,,20.0,H,H,1.4
+R08,Ascorbic,0.51,10 - 200,two-sided,10.0,200.0,L,L,-2.155793684210526
+R08,Carboxycitric,0.0,≤ 20,one-sided,,20.0,,,0.0
+R08,Citramalic,0.78,0.11 - 2.0,two-sided,0.11,2.0,,,-0.5703703703703702
+R08,Citric,66.0,2.2 - 260,two-sided,2.2,260.0,,,-0.9898836307214893
+R08,DHPPA (Beneficial Bacteria),0.01,≤ 0.23,one-sided,,0.23,,,0.043478260869565216
+R08,Dihydroxyphenylacetic (DOPAC),0.72,0.27 - 1.9,two-sided,0.27,1.9,,,-0.8777914110429448
+R08,Ethylmalonic,0.75,0.13 - 2.7,two-sided,0.13,2.7,,,-1.0143190661478598
+R08,Fumaric,0.1,≤ 0.49,one-sided,,0.49,,,0.20408163265306123
+R08,"Furan-2,5-dicarboxylic",2.9,≤ 13,one-sided,,13.0,,,0.22307692307692306
+R08,Furancarbonylglycine,0.04,≤ 2.3,one-sided,,2.3,,,0.017391304347826087
+R08,Glutaric,0.08,≤ 0.43,one-sided,,0.43,,,0.18604651162790697
+R08,Glyceric,1.8,0.21 - 4.9,two-sided,0.21,4.9,,,-0.631044776119403
+R08,Glycolic,42.0,18 - 81,two-sided,18.0,81.0,,,-0.4666666666666666
+R08,HPHPA,42.0,≤ 102,one-sided,,102.0,,,0.4117647058823529
+R08,HVA / VMA Ratio,0.7,0.32 - 1.4,two-sided,0.32,1.4,,,-0.5807407407407409
+R08,HVA/ DOPAC Ratio,1.1,0.17 - 1.6,two-sided,0.17,1.6,,,0.5893706293706296
+R08,Hippuric,89.0,≤ 241,one-sided,,241.0,,,0.36929460580912865
+R08,Homogentisic,0.01,≤ 2.0,one-sided,,2.0,,,0.005
+R08,Homovanillic (HVA),0.77,0.39 - 2.2,two-sided,0.39,2.2,,,-1.1370165745856355
+R08,Kynurenic,0.14,≤ 1.8,one-sided,,1.8,,,0.07777777777777778
+R08,Lactic,3.9,0.74 - 19,two-sided,0.74,19.0,,,-1.2816210295728365
+R08,Malic,0.33,≤ 1.1,one-sided,,1.1,,,0.3
+R08,Malonic,2.6,≤ 9.9,one-sided,,9.9,,,0.26262626262626265
+R08,Mandelic,0.05,≤ 2.0,one-sided,,2.0,,,0.025
+R08,Methylcitric,0.59,0.15 - 1.7,two-sided,0.15,1.7,,,-0.8472258064516127
+R08,Methylmalonic,0.76,≤ 2.3,one-sided,,2.3,,,0.3304347826086957
+R08,Methylsuccinic,0.8,≤ 2.3,one-sided,,2.3,,,0.3478260869565218
+R08,N-Acetylaspartic,0.77,≤ 38,one-sided,,38.0,,,0.020263157894736844
+R08,N-Acetylcysteine (NAC),0.02,≤ 0.13,one-sided,,0.13,,,0.15384615384615385
+R08,Orotic,0.11,≤ 0.46,one-sided,,0.46,,,0.23913043478260868
+R08,Oxalic,88.0,8.9 - 67,two-sided,8.9,67.0,H,H,3.376867469879518
+R08,Pantothenic (B5),2.2,≤ 5.4,one-sided,,5.4,,,0.40740740740740744
+R08,Phenyllactic,0.01,≤ 2.0,one-sided,,2.0,,,0.005
+R08,Phenylpyruvic,0.25,≤ 2.0,one-sided,,2.0,,,0.125
+R08,Pyridoxic (B6),0.0,≤ 26,one-sided,,26.0,,,0.0
+R08,Pyroglutamic,11.0,5.7 - 25,two-sided,5.7,25.0,,,-0.883523316062176
+R08,Pyruvic,2.7,0.28 - 6.7,two-sided,0.28,6.7,,,-0.48236760124610595
+R08,Quinolinic,1.3,0.52 - 2.4,two-sided,0.52,2.4,,,-0.3336170212765956
+R08,Sebacic,0.01,≤ 0.14,one-sided,,0.14,,,0.07142857142857142
+R08,Suberic,1.2,≤ 1.9,one-sided,,1.9,,,0.631578947368421
+R08,Succinic,2.3,≤ 5.3,one-sided,,5.3,,,0.43396226415094336
+R08,Tartaric,1.9,≤ 5.3,one-sided,,5.3,,,0.3584905660377358
+R08,Thymine,0.04,≤ 0.36,one-sided,,0.36,,,0.11111111111111112
+R08,Tricarballylic,0.17,≤ 0.58,one-sided,,0.58,,,0.2931034482758621
+R08,Uracil,2.0,≤ 6.9,one-sided,,6.9,,,0.2898550724637681
+R08,Vanillylmandelic (VMA),1.1,0.53 - 2.2,two-sided,0.53,2.2,,,-0.6220359281437128
+R09,2-Hydroxybutyric,0.69,≤ 1.2,one-sided,,1.2,,,0.575
+R09,2-Hydroxyhippuric,0.33,≤ 0.86,one-sided,,0.86,,,0.38372093023255816
+R09,2-Hydroxyisocaproic,0.27,≤ 2.0,one-sided,,2.0,,,0.135
+R09,2-Hydroxyisovaleric,0.07,≤ 2.0,one-sided,,2.0,,,0.035
+R09,2-Hydroxyphenylacetic,0.29,0.03 - 0.47,two-sided,0.03,0.47,,,0.3563636363636362
+R09,2-Oxo-4-methiolbutyric,0.05,≤ 2.0,one-sided,,2.0,,,0.025
+R09,2-Oxoglutaric,5.0,≤ 18,one-sided,,18.0,,,0.2777777777777778
+R09,2-Oxoisocaproic,0.09,≤ 2.0,one-sided,,2.0,,,0.045
+R09,2-Oxoisovaleric,0.04,≤ 2.0,one-sided,,2.0,,,0.02
+R09,3-Hydroxy-3-methylglutaric,4.8,≤ 26,one-sided,,26.0,,,0.1846153846153846
+R09,3-Hydroxybutyric,1.0,≤ 1.9,one-sided,,1.9,,,0.5263157894736842
+R09,3-Hydroxyglutaric,2.0,≤ 4.6,one-sided,,4.6,,,0.4347826086956522
+R09,3-Indoleacetic,0.39,≤ 6.8,one-sided,,6.8,,,0.05735294117647059
+R09,3-Methyl-2-oxovaleric,0.38,≤ 2.0,one-sided,,2.0,,,0.19
+R09,3-Methylglutaconic,0.76,0.38 - 2.0,two-sided,0.38,2.0,,,-1.0404938271604935
+R09,3-Methylglutaric,0.12,0.02 - 0.38,two-sided,0.02,0.38,,,-0.8711111111111113
+R09,3-Oxoglutaric,0.06,≤ 0.11,one-sided,,0.11,,,0.5454545454545454
+R09,4-Cresol,26.0,≤ 39,one-sided,,39.0,,,0.6666666666666666
+R09,4-Hydroxybenzoic,0.44,≤ 0.73,one-sided,,0.73,,,0.6027397260273972
+R09,4-Hydroxybutyric,1.1,≤ 4.3,one-sided,,4.3,,,0.2558139534883721
+R09,4-Hydroxyhippuric,2.3,≤ 14,one-sided,,14.0,,,0.16428571428571428
+R09,4-Hydroxyphenylacetic,6.3,≤ 18,one-sided,,18.0,,,0.35
+R09,4-Hydroxyphenyllactic,0.18,≤ 2.0,one-sided,,2.0,,,0.09
+R09,5-Hydroxyindoleacetic (5-HIAA),0.56,≤ 2.9,one-sided,,2.9,,,0.1931034482758621
+R09,5-Hydroxymethyl-2-furoic,1.2,≤ 18,one-sided,,18.0,,,0.06666666666666667
+R09,Acetoacetic,1.0,≤ 10,one-sided,,10.0,,,0.1
+R09,Aconitic,6.1,4.1 - 23,two-sided,4.1,23.0,,,-1.5451851851851854
+R09,Adipic,0.61,≤ 2.9,one-sided,,2.9,,,0.2103448275862069
+R09,Arabinose,18.0,≤ 20,one-sided,,20.0,,,0.9
+R09,Ascorbic,0.42,10 - 200,two-sided,10.0,200.0,L,L,-2.1576505263157895
+R09,Carboxycitric,0.0,≤ 20,one-sided,,20.0,,,0.0
+R09,Citramalic,0.43,0.11 - 2.0,two-sided,0.11,2.0,,,-1.2962962962962963
+R09,Citric,71.0,2.2 - 260,two-sided,2.2,260.0,,,-0.9138557020946467
+R09,DHPPA (Beneficial Bacteria),0.13,≤ 0.23,one-sided,,0.23,,,0.5652173913043478
+R09,Dihydroxyphenylacetic (DOPAC),1.5,0.27 - 1.9,two-sided,0.27,1.9,,,0.998036809815951
+R09,Ethylmalonic,1.2,0.13 - 2.7,two-sided,0.13,2.7,,,-0.3279377431906616
+R09,Fumaric,0.08,≤ 0.49,one-sided,,0.49,,,0.163265306122449
+R09,"Furan-2,5-dicarboxylic",2.9,≤ 13,one-sided,,13.0,,,0.22307692307692306
+R09,Furancarbonylglycine,0.09,≤ 2.3,one-sided,,2.3,,,0.0391304347826087
+R09,Glutaric,0.08,≤ 0.43,one-sided,,0.43,,,0.18604651162790697
+R09,Glyceric,1.6,0.21 - 4.9,two-sided,0.21,4.9,,,-0.7982089552238806
+R09,Glycolic,48.0,18 - 81,two-sided,18.0,81.0,,,-0.09333333333333332
+R09,HPHPA,11.0,≤ 102,one-sided,,102.0,,,0.10784313725490197
+R09,HVA / VMA Ratio,1.2,0.32 - 1.4,two-sided,0.32,1.4,,,1.234074074074074
+R09,HVA/ DOPAC Ratio,0.73,0.17 - 1.6,two-sided,0.17,1.6,,,-0.4248951048951049
+R09,Hippuric,224.0,≤ 241,one-sided,,241.0,,,0.9294605809128631
+R09,Homogentisic,0.02,≤ 2.0,one-sided,,2.0,,,0.01
+R09,Homovanillic (HVA),1.1,0.39 - 2.2,two-sided,0.39,2.2,,,-0.42232044198895036
+R09,Kynurenic,0.3,≤ 1.8,one-sided,,1.8,,,0.16666666666666666
+R09,Lactic,4.3,0.74 - 19,two-sided,0.74,19.0,,,-1.1957502738225627
+R09,Malic,0.35,≤ 1.1,one-sided,,1.1,,,0.3181818181818181
+R09,Malonic,3.7,≤ 9.9,one-sided,,9.9,,,0.37373737373737376
+R09,Mandelic,0.11,≤ 2.0,one-sided,,2.0,,,0.055
+R09,Methylcitric,0.57,0.15 - 1.7,two-sided,0.15,1.7,,,-0.8978064516129032
+R09,Methylmalonic,1.3,≤ 2.3,one-sided,,2.3,,,0.5652173913043479
+R09,Methylsuccinic,1.0,≤ 2.3,one-sided,,2.3,,,0.4347826086956522
+R09,N-Acetylaspartic,0.93,≤ 38,one-sided,,38.0,,,0.024473684210526318
+R09,N-Acetylcysteine (NAC),0.0,≤ 0.13,one-sided,,0.13,,,0.0
+R09,Orotic,0.18,≤ 0.46,one-sided,,0.46,,,0.3913043478260869
+R09,Oxalic,76.0,8.9 - 67,two-sided,8.9,67.0,H,H,2.5672289156626507
+R09,Pantothenic (B5),0.59,≤ 5.4,one-sided,,5.4,,,0.10925925925925925
+R09,Phenyllactic,0.05,≤ 2.0,one-sided,,2.0,,,0.025
+R09,Phenylpyruvic,0.0,≤ 2.0,one-sided,,2.0,,,0.0
+R09,Pyridoxic (B6),1.2,≤ 26,one-sided,,26.0,,,0.04615384615384615
+R09,Pyroglutamic,14.0,5.7 - 25,two-sided,5.7,25.0,,,-0.27419689119170976
+R09,Pyruvic,2.2,0.28 - 6.7,two-sided,0.28,6.7,,,-0.7876635514018692
+R09,Quinolinic,1.1,0.52 - 2.4,two-sided,0.52,2.4,,,-0.7506382978723402
+R09,Sebacic,0.08,≤ 0.14,one-sided,,0.14,,,0.5714285714285714
+R09,Suberic,1.7,≤ 1.9,one-sided,,1.9,,,0.8947368421052632
+R09,Succinic,1.7,≤ 5.3,one-sided,,5.3,,,0.32075471698113206
+R09,Tartaric,0.53,≤ 5.3,one-sided,,5.3,,,0.1
+R09,Thymine,0.11,≤ 0.36,one-sided,,0.36,,,0.3055555555555556
+R09,Tricarballylic,0.13,≤ 0.58,one-sided,,0.58,,,0.2241379310344828
+R09,Uracil,2.5,≤ 6.9,one-sided,,6.9,,,0.36231884057971014
+R09,Vanillylmandelic (VMA),0.93,0.53 - 2.2,two-sided,0.53,2.2,,,-1.0210778443113775
+R10,2-Hydroxybutyric,0.42,≤ 1.2,one-sided,,1.2,,,0.35
+R10,2-Hydroxyhippuric,0.23,≤ 0.86,one-sided,,0.86,,,0.2674418604651163
+R10,2-Hydroxyisocaproic,0.0,≤ 2.0,one-sided,,2.0,,,0.0
+R10,2-Hydroxyisovaleric,0.04,≤ 2.0,one-sided,,2.0,,,0.02
+R10,2-Hydroxyphenylacetic,0.28,0.03 - 0.47,two-sided,0.03,0.47,,,0.26727272727272755
+R10,2-Oxo-4-methiolbutyric,0.04,≤ 2.0,one-sided,,2.0,,,0.02
+R10,2-Oxoglutaric,6.4,≤ 18,one-sided,,18.0,,,0.35555555555555557
+R10,2-Oxoisocaproic,0.1,≤ 2.0,one-sided,,2.0,,,0.05
+R10,2-Oxoisovaleric,0.07,≤ 2.0,one-sided,,2.0,,,0.035
+R10,3-Hydroxy-3-methylglutaric,8.3,≤ 26,one-sided,,26.0,,,0.31923076923076926
+R10,3-Hydroxybutyric,0.53,≤ 1.9,one-sided,,1.9,,,0.27894736842105267
+R10,3-Hydroxyglutaric,2.2,≤ 4.6,one-sided,,4.6,,,0.47826086956521746
+R10,3-Indoleacetic,0.27,≤ 6.8,one-sided,,6.8,,,0.03970588235294118
+R10,3-Methyl-2-oxovaleric,0.26,≤ 2.0,one-sided,,2.0,,,0.13
+R10,3-Methylglutaconic,0.95,0.38 - 2.0,two-sided,0.38,2.0,,,-0.5807407407407407
+R10,3-Methylglutaric,0.25,0.02 - 0.38,two-sided,0.02,0.38,,,0.5444444444444443
+R10,3-Oxoglutaric,0.03,≤ 0.11,one-sided,,0.11,,,0.2727272727272727
+R10,4-Cresol,31.0,≤ 39,one-sided,,39.0,,,0.7948717948717948
+R10,4-Hydroxybenzoic,0.42,≤ 0.73,one-sided,,0.73,,,0.5753424657534246
+R10,4-Hydroxybutyric,0.59,≤ 4.3,one-sided,,4.3,,,0.1372093023255814
+R10,4-Hydroxyhippuric,7.6,≤ 14,one-sided,,14.0,,,0.5428571428571428
+R10,4-Hydroxyphenylacetic,6.7,≤ 18,one-sided,,18.0,,,0.37222222222222223
+R10,4-Hydroxyphenyllactic,0.13,≤ 2.0,one-sided,,2.0,,,0.065
+R10,5-Hydroxyindoleacetic (5-HIAA),0.88,≤ 2.9,one-sided,,2.9,,,0.30344827586206896
+R10,5-Hydroxymethyl-2-furoic,1.7,≤ 18,one-sided,,18.0,,,0.09444444444444444
+R10,Acetoacetic,0.58,≤ 10,one-sided,,10.0,,,0.057999999999999996
+R10,Aconitic,6.1,4.1 - 23,two-sided,4.1,23.0,,,-1.5451851851851854
+R10,Adipic,0.62,≤ 2.9,one-sided,,2.9,,,0.21379310344827587
+R10,Arabinose,40.0,≤ 20,one-sided,,20.0,H,H,2.0
+R10,Ascorbic,1.2,10 - 200,two-sided,10.0,200.0,L,L,-2.141557894736842
+R10,Carboxycitric,0.01,≤ 20,one-sided,,20.0,,,0.0005
+R10,Citramalic,0.47,0.11 - 2.0,two-sided,0.11,2.0,,,-1.2133333333333332
+R10,Citric,85.0,2.2 - 260,two-sided,2.2,260.0,,,-0.7009775019394878
+R10,DHPPA (Beneficial Bacteria),0.04,≤ 0.23,one-sided,,0.23,,,0.17391304347826086
+R10,Dihydroxyphenylacetic (DOPAC),1.1,0.27 - 1.9,two-sided,0.27,1.9,,,0.03607361963190214
+R10,Ethylmalonic,1.1,0.13 - 2.7,two-sided,0.13,2.7,,,-0.4804669260700388
+R10,Fumaric,0.09,≤ 0.49,one-sided,,0.49,,,0.1836734693877551
+R10,"Furan-2,5-dicarboxylic",5.2,≤ 13,one-sided,,13.0,,,0.4
+R10,Furancarbonylglycine,0.4,≤ 2.3,one-sided,,2.3,,,0.1739130434782609
+R10,Glutaric,0.08,≤ 0.43,one-sided,,0.43,,,0.18604651162790697
+R10,Glyceric,1.1,0.21 - 4.9,two-sided,0.21,4.9,,,-1.2161194029850746
+R10,Glycolic,33.0,18 - 81,two-sided,18.0,81.0,,,-1.0266666666666666
+R10,HPHPA,8.8,≤ 102,one-sided,,102.0,,,0.08627450980392158
+R10,HVA / VMA Ratio,1.3,0.32 - 1.4,two-sided,0.32,1.4,,,1.5970370370370375
+R10,HVA/ DOPAC Ratio,1.2,0.17 - 1.6,two-sided,0.17,1.6,,,0.8634965034965032
+R10,Hippuric,299.0,≤ 241,one-sided,,241.0,H,H,1.2406639004149378
+R10,Homogentisic,0.01,≤ 2.0,one-sided,,2.0,,,0.005
+R10,Homovanillic (HVA),1.3,0.39 - 2.2,two-sided,0.39,2.2,,,0.010828729281767724
+R10,Kynurenic,0.8,≤ 1.8,one-sided,,1.8,,,0.4444444444444445
+R10,Lactic,4.8,0.74 - 19,two-sided,0.74,19.0,,,-1.0884118291347205
+R10,Malic,0.37,≤ 1.1,one-sided,,1.1,,,0.3363636363636363
+R10,Malonic,2.3,≤ 9.9,one-sided,,9.9,,,0.2323232323232323
+R10,Mandelic,0.06,≤ 2.0,one-sided,,2.0,,,0.03
+R10,Methylcitric,0.77,0.15 - 1.7,two-sided,0.15,1.7,,,-0.39199999999999974
+R10,Methylmalonic,0.66,≤ 2.3,one-sided,,2.3,,,0.28695652173913044
+R10,Methylsuccinic,0.85,≤ 2.3,one-sided,,2.3,,,0.3695652173913044
+R10,N-Acetylaspartic,2.5,≤ 38,one-sided,,38.0,,,0.06578947368421052
+R10,N-Acetylcysteine (NAC),0.0,≤ 0.13,one-sided,,0.13,,,0.0
+R10,Orotic,0.13,≤ 0.46,one-sided,,0.46,,,0.2826086956521739
+R10,Oxalic,56.0,8.9 - 67,two-sided,8.9,67.0,,,1.2178313253012047
+R10,Pantothenic (B5),0.34,≤ 5.4,one-sided,,5.4,,,0.06296296296296296
+R10,Phenyllactic,0.04,≤ 2.0,one-sided,,2.0,,,0.02
+R10,Phenylpyruvic,0.0,≤ 2.0,one-sided,,2.0,,,0.0
+R10,Pyridoxic (B6),1.5,≤ 26,one-sided,,26.0,,,0.057692307692307696
+R10,Pyroglutamic,17.0,5.7 - 25,two-sided,5.7,25.0,,,0.33512953367875653
+R10,Pyruvic,3.8,0.28 - 6.7,two-sided,0.28,6.7,,,0.18928348909657297
+R10,Quinolinic,1.4,0.52 - 2.4,two-sided,0.52,2.4,,,-0.12510638297872353
+R10,Sebacic,0.05,≤ 0.14,one-sided,,0.14,,,0.35714285714285715
+R10,Suberic,1.5,≤ 1.9,one-sided,,1.9,,,0.7894736842105263
+R10,Succinic,1.1,≤ 5.3,one-sided,,5.3,,,0.2075471698113208
+R10,Tartaric,0.33,≤ 5.3,one-sided,,5.3,,,0.06226415094339623
+R10,Thymine,0.09,≤ 0.36,one-sided,,0.36,,,0.25
+R10,Tricarballylic,0.45,≤ 0.58,one-sided,,0.58,,,0.7758620689655173
+R10,Uracil,2.5,≤ 6.9,one-sided,,6.9,,,0.36231884057971014
+R10,Vanillylmandelic (VMA),1.0,0.53 - 2.2,two-sided,0.53,2.2,,,-0.8567664670658687

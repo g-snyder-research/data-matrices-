@@ -1,0 +1,7 @@
+participant,analyte,ref_range,flag,value
+S01,Arabinose,≤ 29,,24.0
+S01,Ascorbic,10 - 200,L,1.6
+S01,Aconitic,6.8 - 28,,9.4
+S02,Arabinose,≤ 29,H,32.0
+S02,Ascorbic,10 - 200,L,0.4
+S02,Aconitic,6.8 - 28,L,5.2

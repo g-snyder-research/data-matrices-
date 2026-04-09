@@ -1,0 +1,11 @@
+analyte,n_one_sided,mean_f_x_over_u,max_f_x_over_u,pct_f_ge_0_75,pct_f_ge_1_0,pct_out_of_range
+Arabinose,10,1.18,2.0,90.0,60.0,60.0
+3-Hydroxybutyric,10,0.72,3.11,20.0,10.0,10.0
+Suberic,7,0.66,0.89,28.6,0.0,0.0
+2-Hydroxybutyric,7,0.62,1.33,28.6,14.3,14.3
+2-Hydroxyhippuric,10,0.59,3.72,10.0,10.0,10.0
+3-Hydroxyglutaric,10,0.57,0.89,20.0,0.0,0.0
+Hippuric,10,0.54,1.24,30.0,10.0,10.0
+Lactic,3,0.54,0.88,33.3,0.0,0.0
+Citric,3,0.51,0.59,0.0,0.0,0.0
+3-Oxoglutaric,10,0.45,2.55,10.0,10.0,10.0

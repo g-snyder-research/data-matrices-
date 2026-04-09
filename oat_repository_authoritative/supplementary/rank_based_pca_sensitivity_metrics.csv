@@ -1,0 +1,5 @@
+reference_component,rank_component,sign_applied_to_rank_component,spearman_rho,pearson_r
+PC1,PC1,+,0.927,0.957
+PC1,PC2,+,-0.139,-0.227
+PC2,PC1,+,-0.055,-0.086
+PC2,PC2,+,-0.055,-0.055

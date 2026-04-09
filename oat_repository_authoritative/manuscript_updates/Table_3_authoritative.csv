@@ -1,0 +1,11 @@
+Analyte,Mean f (x/U),Max f (x/U),% f ≥ 0.75,% f ≥ 1.0,% Out-of-range,n one-sided
+Arabinose,1.18,2.0,90.0,60.0,60.0,10
+3-Hydroxybutyric,0.72,3.11,20.0,10.0,10.0,10
+Suberic,0.66,0.89,28.6,0.0,0.0,7
+2-Hydroxybutyric,0.62,1.33,28.6,14.3,14.3,7
+2-Hydroxyhippuric,0.59,3.72,10.0,10.0,10.0,10
+3-Hydroxyglutaric,0.57,0.89,20.0,0.0,0.0,10
+Hippuric,0.54,1.24,30.0,10.0,10.0,10
+Lactic,0.54,0.88,33.3,0.0,0.0,3
+Citric,0.51,0.59,0.0,0.0,0.0,3
+3-Oxoglutaric,0.45,2.55,10.0,10.0,10.0,10

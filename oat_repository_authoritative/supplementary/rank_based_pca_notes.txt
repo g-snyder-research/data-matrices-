@@ -1,0 +1,15 @@
+Rank-based PCA sensitivity analysis
+
+Method
+- Raw analyte values were pivoted to a participant-by-analyte matrix.
+- Each analyte was ranked across participants using average ranks for ties.
+- Ranked values were standardized across participants and submitted to PCA.
+- Component correspondence was checked explicitly across all pairings of reference-aware PCs and rank-based PCs using Spearman and Pearson correlations, with sign-flip checks for the rank-based components.
+
+Key reproduced values
+- Reference-aware PCA variance explained: PC1 = 27.3%, PC2 = 19.0%
+- Rank-based PCA variance explained: PC1 = 35.3%, PC2 = 13.4%
+- Spearman correlation between reference-aware PC1 scores and rank-based PC1 scores = 0.927
+- Pearson correlation between reference-aware PC1 scores and rank-based PC1 scores = 0.957
+- No alternative component pairing produced a stronger correspondence than PC1-to-PC1 for the primary axis.
+- PC2 was not preserved across methods.
